@@ -1,4 +1,5 @@
 import torch
+import cv2
 from typing import List, Union, Optional
 from PIL import Image
 import numpy as np
